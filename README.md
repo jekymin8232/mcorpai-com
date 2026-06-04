@@ -1,4 +1,4 @@
-# Creating AI that saves lives.
+## Creating AI that saves lives.
 ### OTF Security Lab Security & Integrity Review (Coming Soon)
 ### https://mcorpai.org/ (Coming Soon)
 **High-Impact ESG Initiative — When everything else fails, even aging smartphones can become life-saving tools. This offline-first AI architecture operates without data centers, cloud services, or continuous connectivity, bringing resilient intelligence to virtually any device. By extending the lifespan of existing hardware, reducing digital inequality, and providing critical support in disaster, humanitarian, and infrastructure-failure scenarios, it delivers meaningful environmental and social value. These characteristics make it a strong example of a high-impact ESG initiative.**
