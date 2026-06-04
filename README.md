@@ -1,91 +1,88 @@
-## 🌍 Creating Offline AI That Saves Lives — Sovereign AI for All
-### 🛡️ Offline AI Research Paper: https://mcorpai.org/VitalGuard_Offline_AI.pdf
-**Detailed Overview of the Offline AI Architecture: https://mcorpai.org/diplomacy(1).html**
+<div align="center">
 
-**OTF Security Lab Security & Integrity Review (Coming Soon)**
-https://
+# 🌍 Creating Offline AI That Saves Lives — Sovereign AI for All
+
+</div>
+
+> 🛡️ **Offline AI Research Paper:** https://mcorpai.org/VitalGuard_Offline_AI.pdf
+>
+> **Detailed Overview of the Offline AI Architecture:** https://mcorpai.org/diplomacy(1).html
+>
+> **OTF Security Lab Security & Integrity Review (Coming Soon)**
+> https://
+
+---
 
 ### 🛡️ Offline AI is highly transparent, fully open source, and freely available to everyone.
+
 **When everything else fails, even aging smartphones can become life-saving tools. This offline-first AI architecture operates without data centers, cloud services, or continuous connectivity, bringing resilient intelligence to virtually any device. By extending the lifespan of existing hardware, reducing digital inequality, and providing critical support in disaster, humanitarian, and infrastructure-failure scenarios, it delivers meaningful environmental and social value.**
+
 ### 🛡️ Even when all other systems stop working, offline AI can save lives.
+
 **Offline AI can be applied in any shutdown environment. Its potential use cases extend beyond communication infrastructure failures to include natural-disaster scenarios, remote and disconnected regions, and even AI-assisted solutions for challenges such as desert greening and environmental restoration. This architecture was also subject to an initial review process involving the Government of Luxembourg in November 2025.**
 
+---
+
 ### 🛡️ Collaboration on Offline AI Technologies: VitalGuard Offline AI
-**Email Address: contact@mcorpai.org**
+
+**Email Address:** contact@mcorpai.org
 
 ### Offline AI Architect: Morgan J. 👍
+
 **I am a developer based in the Republic of Korea, focused on building privacy-preserving and offline-first technologies. All work is conducted remotely. Communication and collaboration can be carried out via email and Microsoft Teams, and no in-person meetings or site visits are required. For additional information about my projects and research, please visit the official website: [mcorpai.org](https://mcorpai.org/)**
+
+---
 
 ## The Core Design Philosophy of AI (Non-Monopolizable)
 
-Today’s AI achieves remarkable performance. However, technical excellence
-alone is insufficient for adoption by international organizations and
-NGOs. Above all, legal security and ethical trustworthiness must be
-guaranteed. To this end, I have established and applied Ten Principles of
-Ethical AI as the foundation of my project. These principles are not subject to
-compromise.
+Today’s AI achieves remarkable performance. However, technical excellence alone is insufficient for adoption by international organizations and NGOs. Above all, legal security and ethical trustworthiness must be guaranteed. To this end, I have established and applied Ten Principles of Ethical AI as the foundation of my project. These principles are not subject to compromise.
 
-**1. Minimize hallucinations.**
+#### 1. Minimize hallucinations.
 
-Incorrect outputs in sensitive domains—child protection, healthcare, disaster
-response—can have immediate and severe consequences.
+Incorrect outputs in sensitive domains—child protection, healthcare, disaster response—can have immediate and severe consequences.
 
-**2. Ensure transparency.**
+#### 2. Ensure transparency.
 
-Traditional AI operates as a black box, where even leading experts cannot
-explain hallucinations. Open-source code and architecture are essential to
-earn trust.
+Traditional AI operates as a black box, where even leading experts cannot explain hallucinations. Open-source code and architecture are essential to earn trust.
 
-**3. Guarantee accessibility in low-income settings.**
+#### 3. Guarantee accessibility in low-income settings.
 
-Open-source AI must be simple, so that anyone can examine, adapt, and
-improve it. This is vital for sustainability in the field.
+Open-source AI must be simple, so that anyone can examine, adapt, and improve it. This is vital for sustainability in the field.
 
-**4. Eliminate data exploitation.**
+#### 4. Eliminate data exploitation.
 
-AI must not rely on unnecessary data collection or centralized servers, which
-can trigger legal disputes. A serverless design offers freedom from such risks
-and reassures NGOs.
+AI must not rely on unnecessary data collection or centralized servers, which can trigger legal disputes. A serverless design offers freedom from such risks and reassures NGOs.
 
-**5. Operate in low-resource environments.**
+#### 5. Operate in low-resource environments.
 
-AI should run on portable solar power and refurbished smartphones, ensuring
-deployment in the most fragile contexts.
+AI should run on portable solar power and refurbished smartphones, ensuring deployment in the most fragile contexts.
 
-**6. Remove legal liability.**
+#### 6. Remove legal liability.
 
-Even minimal exposure to litigation makes adoption impossible. Designs must
-protect NGOs and international organizations from multimillion-dollar lawsuits.
+Even minimal exposure to litigation makes adoption impossible. Designs must protect NGOs and international organizations from multimillion-dollar lawsuits.
 
-**7. Be free of charge and lightweight.**
+#### 7. Be free of charge and lightweight.
 
-Free access enables adoption in communities with no income, while also
-ensuring that international institutions bear no financial or legal liability.
+Free access enables adoption in communities with no income, while also ensuring that international institutions bear no financial or legal liability.
 
-**8. Emphasize simplicity and standardization.**
+#### 8. Emphasize simplicity and standardization.
 
-Life-saving AI requires reliable statistics and probabilistic analysis, not
-complex reasoning that increases hallucination risk.
+Life-saving AI requires reliable statistics and probabilistic analysis, not complex reasoning that increases hallucination risk.
 
-**9. Be non-specialist friendly.**
+#### 9. Be non-specialist friendly.
 
-Most NGO personnel are not programmers. Code should be straightforward,
-well-commented, and easy to adapt in the field.
+Most NGO personnel are not programmers. Code should be straightforward, well-commented, and easy to adapt in the field.
 
-**10. Collect no data and allow simple deletion.**
+#### 10. Collect no data and allow simple deletion.
 
-Users must be able to erase the AI and its data at any time. Ease of deletion
-means freedom from responsibility.
+Users must be able to erase the AI and its data at any time. Ease of deletion means freedom from responsibility.
 
-Finally, 
+> **Finally,** what matters more than performance is alignment with international norms. AI must embed GDPR, UNCRC, and CRPD principles from the design stage and ensure that no liability is transferred to international organizations. Only under these conditions can the global community confidently deploy AI in the field.
 
-what matters more than performance is alignment with international
-norms. AI must embed GDPR, UNCRC, and CRPD principles from the design
-stage and ensure that no liability is transferred to international organizations.
-Only under these conditions can the global community confidently deploy AI in
-the field.
+---
 
-### Offline AI Modular Toolkit:
+## Offline AI Modular Toolkit:
+
 https://github.com/jekymin8232/vitalguardai-com/blob/main/VitalGuard_Integrated_Modular_Code_V3_0_UltrasonicMorse.html
 
 > A single-file, **zero-dependency**, **100% offline**, **no-auto-render** source bundle that packages four humanitarian survival-AI artifacts and exposes a small, explicit runtime kernel for inspecting, extracting, and re-using their modules.
@@ -135,6 +132,8 @@ It stores four separate humanitarian-AI source artifacts as inert, Base64-encode
 
 The design goal is **field survivability under total infrastructure collapse**: the entire toolkit is one HTML file, requires no network, no build step, no package manager, and no external library, so it can be archived, audited, and run from a single discarded smartphone or a USB stick.
 
+---
+
 ## What this file is — and is not
 
 **This file IS:**
@@ -150,6 +149,8 @@ The design goal is **field survivability under total infrastructure collapse**: 
 - It does **not** open the microphone, start Web Audio, or emit any ultrasonic signal until a developer (or a real user gesture) explicitly invokes the relevant method.
 
 These guarantees are encoded in the manifest's `activeDocumentPolicy` and re-exposed at runtime through `securityPolicy()`.
+
+---
 
 ## Architecture
 
@@ -182,6 +183,8 @@ VitalGuard_Integrated_Modular_Code_V3_0_UltrasonicMorse.html
 
 Module factories are **lazy**: a factory only runs the first time `require(name)` is called, so simply loading the page instantiates nothing.
 
+---
+
 ## Bundled source payloads
 
 | App key | Original artifact | Size | Module boundary | Modules |
@@ -192,6 +195,8 @@ Module factories are **lazy**: a factory only runs the first time `require(name)
 | `acoustic_mesh_survival_protocol_v1_0` | Acoustic Mesh Survival Protocol (text) | ~13 KB | protocol chapters / `acoustic.*` modules | 24 |
 
 Each payload is decoded lazily and is never executed during decoding. Module maps for every payload are listed in full inside the embedded manifest.
+
+---
 
 ## Public API
 
@@ -235,6 +240,8 @@ Everything is reached through the frozen global object `window.VitalGuardIntegra
 | `mountMorsePanel(container, options)` | Mount the optional Morse UI panel into an element. |
 | `acousticSelfTest()` | Run the acoustic self-test (no audio playback). |
 
+---
+
 ## Quick start
 
 Because the file is fully self-contained, "installation" means opening it.
@@ -256,6 +263,8 @@ vg.securityPolicy();              // declarative no-render / no-egress policy
 ```
 
 > Nothing renders and nothing connects to the network. Every action above is read-only inspection.
+
+---
 
 ## Working with modules
 
@@ -286,6 +295,8 @@ const tools = window.VitalGuardIntegratedV30.exportTools();
 tools.downloadText('swarm-ethics-module', ethics.source);
 ```
 
+---
+
 ## Cognitive Broadcast Bridge
 
 An explicit decision engine that maps an upstream risk assessment to a broadcast action. It is created by hand and never auto-initializes audio, mic, UI, or transmission.
@@ -309,6 +320,8 @@ const bridge = window.VitalGuardIntegratedV30
 
 Inputs are read from two channels (`cortex-e-assessment`, `cortex-m-reliability`); output is sent to `window.vgMesh` or an injected mesh adapter. Audio output requires a real user gesture.
 
+---
+
 ## Acoustic Morse / Ultrasonic Mesh
 
 A zero-infrastructure, data-over-sound layer for environments where Bluetooth is unavailable (for example iOS Safari, which lacks Web Bluetooth). A user types a short message such as `SOS` or `조심하세요`; the engine normalizes it to Morse-compatible text, builds a Morse timeline, and broadcasts it through the Web Audio API.
@@ -328,6 +341,8 @@ const acoustic = window.VitalGuardIntegratedV30.acousticFactory().create();
 
 **Built-in safety model:** manual invocation only · messages bounded to 100 characters · no external network · no personal identifier carried in the Morse stream · local logs only · stop button has priority.
 
+---
+
 ## Security and privacy model
 
 The integration artifact enforces a strict, declarative posture, surfaced via `securityPolicy()`:
@@ -342,6 +357,8 @@ The integration artifact enforces a strict, declarative posture, surfaced via `s
 
 This containment design means that decoding or extracting an embedded artifact never starts that artifact, and that the bridge/acoustic engines stay dormant until explicitly created.
 
+---
+
 ## Self-tests
 
 Self-tests validate logic and document-safety invariants **without playing any audio**:
@@ -352,6 +369,8 @@ await window.VitalGuardIntegratedV30.bridgeSelfTest();
 ```
 
 The acoustic self-test verifies, among other things, that `SOS` encodes to `... --- ...`, that a Korean caution phrase is reduced to Morse-safe Latin, that `VGM3` packets round-trip through CRC parsing, that an ultrasonic schedule is generated above 17 kHz, that obvious phone-number-like strings are sanitized, and that the active document contains no external script source and no `iframe`/`embed`/`object`.
+
+---
 
 ## Integrity (SHA-256)
 
@@ -364,12 +383,16 @@ Each embedded payload is pinned in the manifest so it can be verified independen
 | `cognitive_broadcast_bridge_v1_0` | `8245b643d76b57dceee0cd95afe54e70aeba176d726282480a28a4ba8a488c3a` |
 | `acoustic_mesh_survival_protocol_v1_0` | `0c2fb71df5826a78a5e43bc00c27128412ca42c6e4dd56974ecb4ade0d663678` |
 
+---
+
 ## Browser support
 
 - Any modern evergreen browser (Chromium, Firefox, Safari).
 - **Bluetooth features** require a browser with Web Bluetooth (Chromium-based). On iOS Safari, the acoustic layer is the intended fallback.
 - **Audio features** (bridge broadcast, acoustic Morse/ultrasonic) require a user gesture to start the Web Audio context, per browser autoplay policy.
 - Older / refurbished devices are explicitly a target environment.
+
+---
 
 ## Maintainer
 
