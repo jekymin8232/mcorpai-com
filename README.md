@@ -6,7 +6,7 @@
 
 **Email Address: contact@mcorpai.org**
 
-**This role is conducted on a remote-work basis. Communication and collaboration are available through email and Microsoft Teams, and no in-person visits are required.**
+**I am a developer based in the Republic of Korea, focused on building privacy-preserving and offline-first technologies. All work is conducted remotely. Communication and collaboration can be carried out via email and Microsoft Teams, and no in-person meetings or site visits are required. For additional information about my projects and research, please visit the official website: mcorpai.org.**
 
 
 
