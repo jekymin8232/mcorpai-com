@@ -10,7 +10,7 @@ https://
 ### 🛡️ Even when all other systems stop working, offline AI can save lives.
 **Offline AI can be applied in any shutdown environment. Its potential use cases extend beyond communication infrastructure failures to include natural-disaster scenarios, remote and disconnected regions, and even AI-assisted solutions for challenges such as desert greening and environmental restoration. This architecture was also subject to an initial review process involving the Government of Luxembourg in November 2025.**
 
-### 🛡️ Collaboration on Offline AI Technologies
+### 🛡️ Collaboration on Offline AI Technologies: VitalGuard Offline AI
 **Email Address: contact@mcorpai.org**
 
 **I am a developer based in the Republic of Korea, focused on building privacy-preserving and offline-first technologies. All work is conducted remotely. Communication and collaboration can be carried out via email and Microsoft Teams, and no in-person meetings or site visits are required. For additional information about my projects and research, please visit the official website: [mcorpai.org](https://mcorpai.org/)**
