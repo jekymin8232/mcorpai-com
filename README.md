@@ -85,6 +85,9 @@ stage and ensure that no liability is transferred to international organizations
 Only under these conditions can the global community confidently deploy AI in
 the field.
 
+### Offline AI Modular Toolkit:
+https://github.com/jekymin8232/vitalguardai-com/blob/main/VitalGuard_Integrated_Modular_Code_V3_0_UltrasonicMorse.html
+
 > A single-file, **zero-dependency**, **100% offline**, **no-auto-render** source bundle that packages four humanitarian survival-AI artifacts and exposes a small, explicit runtime kernel for inspecting, extracting, and re-using their modules.
 
 [![single file](https://img.shields.io/badge/build-single--file-blue)]()
