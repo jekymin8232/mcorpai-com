@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌍 Creating Offline AI That Saves Lives — Sovereign AI for All
+## 🌍 Creating Offline AI That Saves Lives — Sovereign AI for All
 
 </div>
 
