@@ -1,4 +1,4 @@
-# 🌍 Creating Offline AI That Saves Lives "Sovereign AI for All"
+## 🌍 Creating Offline AI That Saves Lives "Sovereign AI for All"
 ### 🛡️ Offline AI Research Paper: https://mcorpai.org/VitalGuard_Offline_AI.pdf
 **Detailed Overview of the Offline AI Architecture: https://mcorpai.org/diplomacy(1).html**
 
