@@ -1,6 +1,8 @@
 # Creating Offline AI That Saves Lives
 ### OTF Security Lab Security & Integrity Review (Coming Soon)
 ### Offline AI Research Paper: https://mcorpai.org/VitalGuard_Offline_AI.pdf
+**Detailed Overview of the Offline AI Architecture: https://mcorpai.org/diplomacy(1).html**
+
 **When everything else fails, even aging smartphones can become life-saving tools. This offline-first AI architecture operates without data centers, cloud services, or continuous connectivity, bringing resilient intelligence to virtually any device. By extending the lifespan of existing hardware, reducing digital inequality, and providing critical support in disaster, humanitarian, and infrastructure-failure scenarios, it delivers meaningful environmental and social value.**
 ### Even when all other systems stop working, offline AI can save lives.
 **Offline AI can be applied in any shutdown environment. Its potential use cases extend beyond communication infrastructure failures to include natural-disaster scenarios, remote and disconnected regions, and even AI-assisted solutions for challenges such as desert greening and environmental restoration. This architecture was also subject to an initial review process involving the Government of Luxembourg in November 2025.**
