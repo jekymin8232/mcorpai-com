@@ -11,6 +11,8 @@
 ### The safest network is a completely offline system that is connected to no network.
 **The core explicit runtime kernel is architected to scale into Enterprise Zero-Trust air-gapped intranet guard solutions.**
 
+**The highest level of security is a completely offline system.**
+
 ## Privacy Through Self-Contained Design
 
 **By eliminating external dependencies, the software becomes more transparent, adaptable, and easier to verify across diverse environments. Its self-contained architecture reduces reliance on third-party components, minimizes unnecessary metadata exposure, and helps limit identifiable digital footprints.**
