@@ -19,6 +19,9 @@
 
 **By supporting greater privacy, resilience, and user autonomy, this approach has the potential to contribute to the protection of human rights and expand access to critical digital capabilities in challenging environments.**
 
+<img width="316" height="185" alt="자연재해" src="https://github.com/user-attachments/assets/7b9275d8-7ca0-430c-ab21-57308410aec4" />
+
+
 ## The AI That Starts Working When Everything Else Fails
 
 **Human-built infrastructure can be disrupted surprisingly easily, whether by natural disasters, conflicts, or large-scale system failures. If AI can operate on extremely simple and widely available devices, it has the potential to help save countless lives.**
