@@ -8,9 +8,9 @@
 >
 > https://
 
-# Leave No Trace.
+# Leave No Trace. Fully Customizable
 ### The safest network is a completely offline system that is connected to no network.
-**The highest level of security comes from a completely offline system with no external attack surface. The core explicit runtime kernel is architected to scale into Enterprise Zero-Trust air-gapped intranet guard solutions.**
+**You're in control of the development. With zero external dependencies, the system can be freely customized to meet specific requirements. Its transparent source code is openly available, allowing anyone to use, inspect, audit, and verify it. The highest level of security comes from a completely offline architecture with no external attack surface. Built around an explicit and transparent runtime kernel, the architecture is designed to scale from lightweight standalone deployments to Enterprise Zero-Trust air-gapped intranet security solutions.**
 
 ## Privacy Through Self-Contained Design
 
