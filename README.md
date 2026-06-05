@@ -19,7 +19,7 @@
 
 **By supporting greater privacy, resilience, and user autonomy, this approach has the potential to contribute to the protection of human rights and expand access to critical digital capabilities in challenging environments.**
 
-<img width="316" height="185" alt="자연재해" src="https://github.com/user-attachments/assets/7b9275d8-7ca0-430c-ab21-57308410aec4" />
+<img width="363" height="212" alt="자연재해" src="https://github.com/user-attachments/assets/7b9275d8-7ca0-430c-ab21-57308410aec4" />
 
 **Even in developed countries such as the United States, Japan, and across Europe, major natural disasters—including hurricanes, typhoons, earthquakes, and tsunamis—can cause widespread infrastructure failures, leaving communities without access to essential services and communications.**
 
