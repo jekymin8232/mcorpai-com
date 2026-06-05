@@ -10,7 +10,7 @@
 
 # Leave No Trace.
 ### The safest network is a completely offline system that is connected to no network.
-**The core explicit runtime kernel is architected to scale into Enterprise Zero-Trust air-gapped intranet guard solutions. The highest level of security comes from a completely offline system with no external attack surface.**
+**The highest level of security comes from a completely offline system with no external attack surface. The core explicit runtime kernel is architected to scale into Enterprise Zero-Trust air-gapped intranet guard solutions.**
 
 ## Privacy Through Self-Contained Design
 
