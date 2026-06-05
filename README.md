@@ -8,6 +8,19 @@
 >
 > https://
 >
+
+## Privacy Through Self-Contained Design
+
+**By eliminating external dependencies, the software becomes more transparent, adaptable, and easier to verify across diverse environments. Its self-contained architecture reduces reliance on third-party components, minimizes unnecessary metadata exposure, and helps limit identifiable digital footprints.**
+
+**While no technology can guarantee complete anonymity, reducing unnecessary traceable elements can strengthen privacy and operational security for users operating in sensitive or high-risk environments.**
+
+**A simpler architecture can also improve transparency and auditability, enabling users to better understand, verify, and maintain the tools they rely on.**
+
+**By supporting greater privacy, resilience, and user autonomy, this approach has the potential to contribute to the protection of human rights and expand access to critical digital capabilities in challenging environments.**
+
+## The AI That Starts Working When Everything Else Fails
+
 **Human-built infrastructure can be disrupted surprisingly easily, whether by natural disasters, conflicts, or large-scale system failures. If AI can operate on extremely simple and widely available devices, it has the potential to help save countless lives.**
 
 **This approach could also support agriculture in regions such as Africa. For example, if low-cost devices can detect and track locust swarm movements, communities may be able to respond earlier and reduce crop losses, helping to mitigate food insecurity.**
