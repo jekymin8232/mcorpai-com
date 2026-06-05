@@ -7,7 +7,8 @@
 > **OTF Security Lab Security & Integrity Review (Coming Soon)**
 >
 > https://
->
+
+**The core explicit runtime kernel is architected to scale into Enterprise Zero-Trust air-gapped intranet guard solutions.**
 
 ## Privacy Through Self-Contained Design
 
