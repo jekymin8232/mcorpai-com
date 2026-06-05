@@ -15,7 +15,7 @@
 
 **While no technology can guarantee complete anonymity, reducing unnecessary traceable elements can strengthen privacy and operational security for users operating in sensitive or high-risk environments.**
 
-**A simpler architecture can also improve transparency and auditability, enabling users to better understand, verify, and maintain the tools they rely on.**
+**A transparent architecture improves auditability and enables users to independently understand, verify, and maintain the tools they rely upon.**
 
 **By supporting greater privacy, resilience, and user autonomy, this approach has the potential to contribute to the protection of human rights and expand access to critical digital capabilities in challenging environments.**
 
