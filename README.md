@@ -8,7 +8,7 @@
 >
 > https://
 >
-> **Human-built infrastructure can be disrupted surprisingly easily, whether by natural disasters, conflicts, or large-scale system failures. If AI can operate on extremely simple and widely available devices, it has the potential to help save countless lives.**
+**Human-built infrastructure can be disrupted surprisingly easily, whether by natural disasters, conflicts, or large-scale system failures. If AI can operate on extremely simple and widely available devices, it has the potential to help save countless lives.**
 
 **This approach could also support agriculture in regions such as Africa. For example, if low-cost devices can detect and track locust swarm movements, communities may be able to respond earlier and reduce crop losses, helping to mitigate food insecurity.**
 
