@@ -1,3 +1,4 @@
+**Freedom is not free. Likewise, keeping a project alive requires ongoing time, effort, and resources.**
 ## 🌍 Creating Offline AI That Saves Lives — Sovereign AI for All
 
 > **Offline AI Research Paper:** https://mcorpai.org/VitalGuard_Offline_AI.pdf
