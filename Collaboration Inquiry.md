@@ -1,5 +1,7 @@
 **Freedom is not free. Likewise, keeping a project alive requires ongoing time, effort, and resources.**
 
+Email Address: contact@mcorpai.org
+
 I would welcome the opportunity to collaborate with your organization. However, long-term cooperation requires a sustainable framework. Open-source developers face the same practical realities as any other professionals, and sustaining a project over time requires adequate support. Without a sustainable model, even the most dedicated developers can eventually face burnout.
 
 For me, this is not solely about financial compensation. It is about ensuring that the project can continue to be maintained, improved, and supported over the long term.
