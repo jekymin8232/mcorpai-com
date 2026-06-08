@@ -82,7 +82,7 @@ that may improve resilience and increase the chances of locating and rescuing pe
 
 ---
 
-# Leave No Trace. Fully Customizable
+# Fully Customizable
 ### The safest network is a completely offline system that is connected to no network.
 **You're in control of the development. With zero external dependencies, the system can be freely customized to meet specific requirements. Its transparent source code is openly available, allowing anyone to use, inspect, audit, and verify it. The highest level of security comes from a completely offline architecture with no external attack surface. Built around an explicit and transparent runtime kernel, the architecture is designed to scale from lightweight standalone deployments to Enterprise Zero-Trust air-gapped intranet security solutions.**
 
