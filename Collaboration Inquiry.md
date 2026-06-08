@@ -1,4 +1,6 @@
-## AI for Social Impact : Open Source. Open Knowledge. Shared with the World.
+### AI for Social Impact : Open Source. Open Knowledge. Shared with the World.
+**ESG Social: A Perfect 100! 💯**
+
 **Freedom is not free. Likewise, keeping a project alive requires ongoing time, effort, and resources.**
 
 **A small and focused XAI research institute of approximately 3–5 researchers could help advance open-source innovation and contribute to the long-term development of the broader ecosystem.**
