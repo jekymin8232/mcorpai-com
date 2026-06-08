@@ -12,6 +12,7 @@
 ### Social Impact AI : The spirit of open source is to share freely.
 
 Collaboration is open to anyone, anywhere in the world.
+
 https://mcorpai.org/
 
 I am particularly interested in developing practical, accessible, and resilient AI systems that can continue to operate even in environments with little or no infrastructure.
