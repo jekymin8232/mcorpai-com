@@ -16,7 +16,7 @@
 
 https://mcorpai.org/
 
-**Collaboration with the Republic of Korea is free of charge.**
+**I am Korean. Collaboration with the Republic of Korea is free of charge.**
 
 https://github.com/jekymin8232/mcorpai-com/blob/main/Collaboration%20Inquiry.md
 
