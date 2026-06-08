@@ -1,3 +1,4 @@
+**The lighter the code, the safer the system—because transparency is security.**
 ## 🌍 Creating Offline AI That Saves Lives — Sovereign AI for All
 
 > **Offline AI Research Paper:** https://mcorpai.org/VitalGuard_Offline_AI.pdf
