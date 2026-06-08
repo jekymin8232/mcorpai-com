@@ -10,6 +10,23 @@
 > https://
 
 ---
+
+VitalGuard AI is an offline AI system designed to help protect and save lives. Because it operates entirely offline, it does not require servers, data centers, cloud infrastructure, or ongoing operating costs. However, research and development still require funding, as developers must be able to sustain their work and livelihoods.
+
+One of the challenges is that many international organizations and institutions operate under limited budgets, and funding decisions often take three to six months or longer. Even when funding is approved, the process can be slow and highly competitive.
+
+If international organizations view ESG reporting and social-impact initiatives favorably, there may be opportunities to attract support from companies across multiple countries. Many corporations actively seek meaningful ESG initiatives that generate measurable social value.
+
+While international organizations play an important role, funding constraints and lengthy approval processes can make long-term research sustainability difficult. To address this challenge, I established M-Corp, inspired by the B-Corp model, with the goal of creating a sustainable framework for Social Impact AI research and development.
+
+Building meaningful AI systems requires stable research funding, the ability to recruit talented developers, and a long-term commitment to innovation. My objective is to publish ESG-focused reports and attract mission-aligned partners and supporters who share the vision of developing AI technologies that contribute to public benefit, resilience, accessibility, and human well-being.
+
+For more information about the AI research institute and our long-term vision, please visit:
+https://mcorpai.org/
+
+
+
+---
 ## Social Impact AI : The spirit of open source is to share freely.
 
 **Collaboration is open to anyone, anywhere in the world.**
