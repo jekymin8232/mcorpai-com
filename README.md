@@ -9,7 +9,7 @@
 > https://
 
 ---
-**Social Impact AI**
+**Social Impact AI The spirit of open source is sharing.**
 
 Collaboration is open to anyone, anywhere in the world.
 https://mcorpai.org/
