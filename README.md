@@ -58,13 +58,6 @@ The distributed version has been intentionally compressed to minimize file size,
 
 ### Social Impact AI: AI-Assisted Ultrasonic Technology
 
-In certain scenarios, ultrasonic communication may offer unique advantages. Its extremely short operating range 
-(typically within a few meters) can be particularly useful in enclosed environments, secure facilities, 
-or safe houses where minimizing signal exposure is a priority.
-
-This project explores how AI-assisted ultrasonic communication can contribute to resilience, operational continuity, 
-and secure local communication in situations where conventional infrastructure may not be ideal.
-
 The ultrasonic Morse-code technology was originally developed to support emergency communications in large-scale disaster scenarios 
 where conventional infrastructure is unavailable or has been destroyed, with the ultimate goal of helping protect and save lives.
 
