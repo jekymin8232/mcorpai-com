@@ -8,6 +8,8 @@
 >
 > https://
 
+---
+
 Collaboration is open to anyone, anywhere in the world.
 https://mcorpai.org/
 
@@ -18,6 +20,8 @@ I hope to focus on building Social Impact AI—technologies that contribute to p
 resilience, accessibility, safety, and the well-being of people around the world.
 
 My mission is to develop AI that creates meaningful and positive impact for humanity.
+
+---
 
 # Leave No Trace. Fully Customizable
 ### The safest network is a completely offline system that is connected to no network.
