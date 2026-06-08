@@ -59,8 +59,6 @@ I believe AI-assisted ultrasonic technology is a promising field that deserves f
 
 **Supporting Activists in High-Risk Regions and Saving Lives During Natural Disasters**
 
-AI-assisted ultrasonic technology has the potential to support both activists in high-risk environments and people affected by disasters.
-
 For example, 
 imagine the aftermath of a major earthquake in Japan, where infrastructure has been severely damaged and entire cities have been left in ruins.
 
