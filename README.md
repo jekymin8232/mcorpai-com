@@ -16,10 +16,6 @@
 
 https://mcorpai.org/
 
-**I am Korean. Collaboration with the Republic of Korea is free of charge.**
-
-https://github.com/jekymin8232/mcorpai-com/blob/main/Collaboration%20Inquiry.md
-
 I am particularly interested in developing practical, accessible, and resilient AI systems that can continue to operate even in environments with little or no infrastructure.
 
 My long-term goal is to establish a small and focused AI research institute with a team of approximately 3 to 5 people.
