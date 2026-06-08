@@ -1,4 +1,3 @@
-**Freedom is not free. Likewise, keeping a project alive requires ongoing time, effort, and resources.**
 ## 🌍 Creating Offline AI That Saves Lives — Sovereign AI for All
 
 > **Offline AI Research Paper:** https://mcorpai.org/VitalGuard_Offline_AI.pdf
@@ -8,6 +7,17 @@
 > **OTF Security Lab Security & Integrity Review (Coming Soon)**
 >
 > https://
+
+Collaboration is open to anyone, anywhere in the world.
+https://mcorpai.org/
+
+My long-term goal is to establish a small AI research institute with a team of approximately 3 to 5 people. 
+A stable and sustainable research environment is essential for long-term innovation and development.
+
+I hope to focus on building Social Impact AI—technologies that contribute to public benefit, 
+resilience, accessibility, safety, and the well-being of people around the world.
+
+My mission is to develop AI that creates meaningful and positive impact for humanity.
 
 # Leave No Trace. Fully Customizable
 ### The safest network is a completely offline system that is connected to no network.
