@@ -14,7 +14,7 @@
 Collaboration is open to anyone, anywhere in the world.
 https://mcorpai.org/
 
-My long-term goal is to establish a small AI research institute with a team of approximately 3 to 5 people. 
+My long-term goal is to establish a small and focused AI research institute with a team of approximately 3 to 5 people. 
 A stable and sustainable research environment is essential for long-term innovation and development.
 
 I hope to focus on building Social Impact AI—technologies that contribute to public benefit, 
