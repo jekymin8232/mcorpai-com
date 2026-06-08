@@ -47,20 +47,6 @@ I will always do my best to serve the interests of both your country and the Rep
 
 ---
 
-My aspiration is to establish a small AI research institute and develop AI technologies that contribute positively to human civilization.
-I am interested in building Social Impact AI focused on public benefit, resilience, accessibility, and safety.
-
-Also researching ultra-lightweight ultrasonic technology: [miniGit, no tracking · Size 186KB]
-[For reference: miniGit] https://mcorpai.net/
-
-"I hope you'll also take a look at miniGit, which offers a variety of features."
-
-Bluetooth and Wi-Fi are not always the safest communication options for activists operating in high-risk environments. 
-In certain situations, they may introduce security risks due to their detectable radio signals.
-
-Ultrasonic communication operates over a very limited range, which can be an advantage in sensitive environments. 
-Signals can be highly customized and encoded using various schemes, making them difficult to interpret without knowledge of the specific protocol.
-
 By combining AI with ultrasonic communication—including Morse-code-based signaling—it becomes possible to automate functions such as distress alerts, 
 proximity estimation, and communication assistance between nearby users. 
 The current implementation is an MVP (Minimum Viable Product) designed to explore these capabilities.
