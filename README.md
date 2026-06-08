@@ -47,15 +47,6 @@ I will always do my best to serve the interests of both your country and the Rep
 
 ---
 
-By combining AI with ultrasonic communication—including Morse-code-based signaling—it becomes possible to automate functions such as distress alerts, 
-proximity estimation, and communication assistance between nearby users. 
-The current implementation is an MVP (Minimum Viable Product) designed to explore these capabilities.
-
-Live Demonstration: (MVP)
-https://mcorpai.net/
-
-The distributed version has been intentionally compressed to minimize file size, while the full implementation is approximately 450 KB.
-
 ### Social Impact AI: AI-Assisted Ultrasonic Technology
 
 The ultrasonic Morse-code technology was originally developed to support emergency communications in large-scale disaster scenarios 
@@ -63,11 +54,6 @@ where conventional infrastructure is unavailable or has been destroyed, with the
 
 Every new technology is worth studying and exploring before it is judged.
 I believe AI-assisted ultrasonic technology is a promising field that deserves further research and exploration.
-
-The version of VitalGuard AI submitted to OTF does not include any AI-assisted ultrasonic communication features. 
-
-If the OTF review is successfully completed, 
-I plan to continue advancing this AI research independently and pursue further research and development through self-sustained efforts.
 
 **AI-powered ultrasonic technology has life-saving potential.**
 
