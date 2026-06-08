@@ -29,6 +29,16 @@ I am a citizen of the Republic of Korea, and I hope to build long-term internati
 
 **I will do my best to make a meaningful and positive impact.**
 
+Some people may ask whether I would be willing to relocate permanently to another country if it actively supported the establishment of my research institute.
+
+My answer is that I place great importance on international cooperation and long-term partnerships.
+
+The Republic of Korea is a leading liberal democracy in Asia with a strong tradition of humanitarian engagement and international collaboration. Rather than leaving Korea behind, I would hope to build bridges between nations and create opportunities for meaningful cooperation.
+
+I sincerely welcome collaboration with the Republic of Korea. By working together, we can contribute to innovation, resilience, and the public good while strengthening ties between our countries.
+
+I will always do my best to serve the interests of both your country and the Republic of Korea through constructive partnership, mutual respect, and shared goals.
+
 ---
 
 # Leave No Trace. Fully Customizable
