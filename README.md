@@ -24,6 +24,8 @@ My mission is to develop AI that creates meaningful and positive impact for huma
 
 I am a citizen of the Republic of Korea, but if your country helps support the creation of my AI research institute, I would be willing to seek permanent residency and contribute my expertise there over the long term.
 
+**I will do my best to make a meaningful and positive impact.**
+
 ---
 
 # Leave No Trace. Fully Customizable
