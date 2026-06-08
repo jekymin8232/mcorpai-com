@@ -80,12 +80,6 @@ A hybrid approach could use Bluetooth for broad-area discovery and ultrasonic si
 The goal is not to replace existing emergency communication systems, but to explore complementary technologies 
 that may improve resilience and increase the chances of locating and rescuing people during large-scale disasters.
 
-Every technology has the potential to save countless lives when used ethically and responsibly. 
-Even Alfred Nobel originally developed dynamite for constructive purposes, believing it could help improve safety and advance engineering projects. 
-
-AI-assisted ultrasonic technology may have applications in supporting activists operating in high-risk environments, 
-as well as in disaster response and search-and-rescue efforts following natural disasters.
-
 ---
 
 # Leave No Trace. Fully Customizable
