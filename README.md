@@ -73,11 +73,7 @@ https://mcorpai.net/
 
 The distributed version has been intentionally compressed to minimize file size, while the full implementation is approximately 450 KB.
 
-=====================================================
-Social Impact AI: AI-Assisted Ultrasonic Technology
-=====================================================
-
-I believe OTF also has an important role in discovering and supporting emerging technologies that may help address future challenges.
+### Social Impact AI: AI-Assisted Ultrasonic Technology
 
 In certain scenarios, ultrasonic communication may offer unique advantages. Its extremely short operating range 
 (typically within a few meters) can be particularly useful in enclosed environments, secure facilities, 
@@ -97,10 +93,9 @@ The version of VitalGuard AI submitted to OTF does not include any AI-assisted u
 If the OTF review is successfully completed, 
 I plan to continue advancing this AI research independently and pursue further research and development through self-sustained efforts.
 
-=====================================================================================
-AI-powered ultrasonic technology has life-saving potential.
-Supporting Activists in High-Risk Regions and Saving Lives During Natural Disasters
-=====================================================================================
+**AI-powered ultrasonic technology has life-saving potential.**
+
+**Supporting Activists in High-Risk Regions and Saving Lives During Natural Disasters**
 
 AI-assisted ultrasonic technology has the potential to support both activists in high-risk environments and people affected by disasters.
 
