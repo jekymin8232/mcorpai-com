@@ -14,6 +14,8 @@
 Collaboration is open to anyone, anywhere in the world.
 https://mcorpai.org/
 
+I am particularly interested in developing practical, accessible, and resilient AI systems that can continue to operate even in environments with little or no infrastructure.
+
 My long-term goal is to establish a small and focused AI research institute with a team of approximately 3 to 5 people. 
 
 A stable and sustainable research environment is essential for long-term innovation and development.
