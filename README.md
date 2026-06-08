@@ -22,6 +22,8 @@ resilience, accessibility, safety, and the well-being of people around the world
 
 My mission is to develop AI that creates meaningful and positive impact for humanity.
 
+I am a citizen of South Korea, but if your country helps support the creation of my AI research institute, I would be willing to seek permanent residency and contribute my expertise there over the long term.
+
 ---
 
 # Leave No Trace. Fully Customizable
