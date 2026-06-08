@@ -10,6 +10,7 @@
 > https://
 
 ---
+**Self-reliance is not a choice—it is a responsibility. Without it, even good intentions become a burden.**
 
 VitalGuard AI is an offline AI system designed to help protect and save lives. Because it operates entirely offline, it does not require servers, data centers, cloud infrastructure, or ongoing operating costs. However, research and development still require funding, as developers must be able to sustain their work and livelihoods.
 
