@@ -47,9 +47,6 @@ I will always do my best to serve the interests of both your country and the Rep
 
 ---
 
-For Collaboration: 
-https://mcorpai.org/
-
 My aspiration is to establish a small AI research institute and develop AI technologies that contribute positively to human civilization.
 I am interested in building Social Impact AI focused on public benefit, resilience, accessibility, and safety.
 
