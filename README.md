@@ -22,8 +22,7 @@ While international organizations play an important role, funding constraints an
 Building meaningful AI systems requires stable research funding, the ability to recruit talented developers, and a long-term commitment to innovation. My objective is to publish ESG-focused reports and attract mission-aligned partners and supporters who share the vision of developing AI technologies that contribute to public benefit, resilience, accessibility, and human well-being.
 
 For more information about the AI research institute and our long-term vision, please visit:
-https://mcorpai.org/
-
+[https://mcorpai.org/](https://github.com/jekymin8232/mcorpai-com)
 
 
 ---
