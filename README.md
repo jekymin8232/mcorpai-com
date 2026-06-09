@@ -22,9 +22,6 @@ While international organizations play an important role, funding constraints an
 
 Building meaningful AI systems requires stable research funding, the ability to recruit talented developers, and a long-term commitment to innovation. My objective is to publish ESG-focused reports and attract mission-aligned partners and supporters who share the vision of developing AI technologies that contribute to public benefit, resilience, accessibility, and human well-being.
 
-For more information about the AI research institute and our long-term vision, please visit:
-[https://mcorpai.org/](https://github.com/jekymin8232/mcorpai-com)
-
 Several Asian countries—including South Korea, Japan, Taiwan, Singapore, and Malaysia—place significant importance on ESG initiatives. Across Europe, ESG principles are also widely recognized as a core component of corporate strategy and long-term sustainability.
 
 By publishing a meaningful Social Impact ESG Report on an annual basis and demonstrating measurable public benefit, it may be possible to attract support from companies that prioritize ESG values. Such partnerships could help establish a sustainable funding model for long-term AI research and development.
