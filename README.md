@@ -14,6 +14,8 @@
 
 VitalGuard AI is an offline AI system designed to help protect and save lives. Because it operates entirely offline, it does not require servers, data centers, cloud infrastructure, or ongoing operating costs. However, research and development still require funding, as developers must be able to sustain their work and livelihoods.
 
+AI innovation is influenced not only by talent and ideas, but also by the environment in which research is conducted. There is a substantial difference between developing AI alone in a small basement room and working in a stable, well-supported research environment.
+
 One of the challenges is that many international organizations and institutions operate under limited budgets, and funding decisions often take three to six months or longer. Even when funding is approved, the process can be slow and highly competitive.
 
 If international organizations view ESG reporting and social-impact initiatives favorably, there may be opportunities to attract support from companies across multiple countries. Many corporations actively seek meaningful ESG initiatives that generate measurable social value.
