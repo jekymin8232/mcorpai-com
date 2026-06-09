@@ -26,7 +26,7 @@ Large amounts of funding are often spent on servers, infrastructure, and computi
 
 **Ultimately, the most important AI is not the one that consumes the most computing power, but the one that helps people grow, innovate, and create meaningful benefits for society.**
 
-## The Best Investment Is People.
+## The Best Investment Is People—Because Human Potential Is Unlimited.
 
 If international organizations view ESG reporting and social-impact initiatives favorably, there may be opportunities to attract support from companies across multiple countries. Many corporations actively seek meaningful ESG initiatives that generate measurable social value.
 
