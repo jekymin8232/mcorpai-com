@@ -66,6 +66,10 @@ I will always do my best to serve the interests of both your country and the Rep
 
 ### Social Impact AI: AI-Assisted Ultrasonic Technology
 
+MVP Prototype: [mcorpai.net](https://mcorpai.net/)
+
+**The smaller and lighter it is, the more secure and safer it becomes.**
+
 The ultrasonic Morse-code technology was originally developed to support emergency communications in large-scale disaster scenarios 
 where conventional infrastructure is unavailable or has been destroyed, with the ultimate goal of helping protect and save lives.
 
