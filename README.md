@@ -26,6 +26,8 @@ Large amounts of funding are often spent on servers, infrastructure, and computi
 
 **Ultimately, the most important AI is not the one that consumes the most computing power, but the one that helps people grow, innovate, and create meaningful benefits for society.**
 
+## The Best Investment Is People.
+
 If international organizations view ESG reporting and social-impact initiatives favorably, there may be opportunities to attract support from companies across multiple countries. Many corporations actively seek meaningful ESG initiatives that generate measurable social value.
 
 While international organizations play an important role, funding constraints and lengthy approval processes can make long-term research sustainability difficult. To address this challenge, I established M-Corp, inspired by the B-Corp model, with the goal of creating a sustainable framework for Social Impact AI research and development.
