@@ -25,6 +25,13 @@ Building meaningful AI systems requires stable research funding, the ability to 
 For more information about the AI research institute and our long-term vision, please visit:
 [https://mcorpai.org/](https://github.com/jekymin8232/mcorpai-com)
 
+Several Asian countries—including South Korea, Japan, Taiwan, Singapore, and Malaysia—place significant importance on ESG initiatives. Across Europe, ESG principles are also widely recognized as a core component of corporate strategy and long-term sustainability.
+
+By publishing a meaningful Social Impact ESG Report on an annual basis and demonstrating measurable public benefit, it may be possible to attract support from companies that prioritize ESG values. Such partnerships could help establish a sustainable funding model for long-term AI research and development.
+
+With a strong ESG strategy, transparent reporting, and meaningful social impact, annual funding opportunities in the range of approximately USD 200,000 per corporate partner may be achievable through sponsorships and strategic partnerships.
+
+If support can be secured from approximately five ESG-oriented companies, total annual research funding could potentially reach around USD 1 million. Such a funding model would provide a solid foundation for recruiting developers, sustaining long-term research efforts, and advancing meaningful AI innovation focused on public benefit and social impact.
 
 ---
 ## Social Impact AI : The spirit of open source is to share freely.
