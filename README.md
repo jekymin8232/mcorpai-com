@@ -18,6 +18,14 @@ AI innovation is influenced not only by talent and ideas, but also by the enviro
 
 One of the challenges is that many international organizations and institutions operate under limited budgets, and funding decisions often take three to six months or longer. Even when funding is approved, the process can be slow and highly competitive.
 
+The AI systems I develop do not require servers, data centers, cloud infrastructure, or ongoing operational costs. The primary investment is in people—the researchers, developers, and innovators who create and improve the technology.
+
+Investing in talented designers, architects, and developers is never wasted. In my view, the most valuable investment is in human capability and innovation.
+
+Large amounts of funding are often spent on servers, infrastructure, and computing resources simply to keep AI systems running. While infrastructure has its place, investing in people creates lasting value. Technology can become obsolete, but knowledge, experience, and human creativity continue to grow and generate new innovations.
+
+**Ultimately, the most important AI is not the one that consumes the most computing power, but the one that helps people grow, innovate, and create meaningful benefits for society.**
+
 If international organizations view ESG reporting and social-impact initiatives favorably, there may be opportunities to attract support from companies across multiple countries. Many corporations actively seek meaningful ESG initiatives that generate measurable social value.
 
 While international organizations play an important role, funding constraints and lengthy approval processes can make long-term research sustainability difficult. To address this challenge, I established M-Corp, inspired by the B-Corp model, with the goal of creating a sustainable framework for Social Impact AI research and development.
