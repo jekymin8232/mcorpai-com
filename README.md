@@ -5,9 +5,6 @@
 >
 > **Detailed Overview of the Offline AI Architecture:** https://mcorpai.org/diplomacy(1).html
 >
-> **OTF Security Lab Security & Integrity Review (Coming Soon) Currently Under Review**
->
-> https://
 
 ---
 **Self-reliance is not a choice—it is a responsibility. Without it, even good intentions become a burden.**
