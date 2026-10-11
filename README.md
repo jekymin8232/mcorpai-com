@@ -1,6 +1,6 @@
 ## 1. Architectural Philosophy: Why This Design?
 
-Modern game development heavily relies on commercial engines such as Unity or Unreal. However, this project was architected to demonstrate **full engineering control over a zero-dependency system and deterministic numerical state management**
+this project was architected to demonstrate **full engineering control over a zero-dependency system and deterministic numerical state management**
 
 * **Zero External Dependencies**: The engine, rules, state machine, rendering pipeline, and narrative assets are fully encapsulated within a single HTML file. It requires no build tools, web servers, or external libraries, running instantaneously on any modern browser
 * **Deterministic State Control**: The engine replaces non-deterministic random functions (`Math.random`) with seed-based PRNG algorithms (`sfc32`), ensuring 100% reproducible state simulation.
