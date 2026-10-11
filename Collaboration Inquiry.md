@@ -29,22 +29,6 @@ Such cooperation could create mutual benefits for all parties involved. Your org
 
 I believe that partnerships built on shared goals, transparency, and public benefit have the potential to create sustainable and impactful outcomes. If there is interest, I would be pleased to explore whether a small-scale collaborative AI research initiative could serve as a foundation for broader future cooperation.
 
-<img width="250" height="89" alt="1" src="https://github.com/user-attachments/assets/e2c47fbb-594b-43ac-b028-e4f8c68a9fea" />
-
-### The Republic of Korea is a leading example of international cooperation.
-
-The Republic of Korea is a globally respected democracy and is widely regarded as one of Asia's leading democratic nations.
-
-**The Republic of Korea is a vibrant democracy with a long-standing commitment to international cooperation. It has consistently taken a proactive and constructive approach to working with partners around the world on shared challenges and opportunities.**
-
-The Government of the Republic of Korea, under the leadership of its President, has shown a strong commitment to international cooperation and remains actively engaged in initiatives that promote shared prosperity, innovation, and the public good.
-
-If providing annual funding of several hundred thousand dollars is difficult for your organization, there may be alternative approaches worth exploring.
-
-For example, if the collaboration can generate positive ESG (Environmental, Social, and Governance) outcomes that can be reflected in your organization's reports and public-impact initiatives, it may be possible to attract support from Korean companies or other institutional partners.
-
-In such a framework, your organization would not necessarily be required to bear the full financial burden. Instead, your primary role could be to facilitate international cooperation, while additional support could potentially be secured through local partnerships and broader stakeholder engagement.
-
 ---
 
 # Leave No Trace. Fully Customizable
