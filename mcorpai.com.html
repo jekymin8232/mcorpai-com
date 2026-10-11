@@ -6190,7 +6190,7 @@ const HS_Boot = (function () {
     el('p', 'hs-boot-form', T.form, box);
     el('p', 'hs-small', T.note, box);
     var b = buildInfo();                               // a trial build says so, with its build check value (명령어 19.1)
-    if (b && b.trial) el('p', 'hs-small hs-trial', (L === 'ko' ? '제작 중인 시험판 · ' : 'Work-in-progress build · ') + b.buildId, box);
+    if (b && b.trial) el('p', 'hs-small hs-trial', (L === 'ko' ? '제작 중인 시험판' : 'Work-in-progress build') + b.buildId, box);
     if (first <= C.W.calendar.last) {
       var card = el('section', 'hs-boundary', null, box); card.setAttribute('aria-label', T.bTitle);
       el('h2', null, T.bTitle, card);
